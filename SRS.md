@@ -2,7 +2,7 @@
 **for Volunteer Management System**  
 **Version 1.3**  
 
-** approved**  
+** approved **  
 
 *Prepared by Cooper, Heather, and Trevor*  
 *TRU students*  
@@ -10,36 +10,36 @@
 
 | **Table of Contents** |
 | ----------- |
-| 1. Introduction	1 |
-| 1.1 Purpose	1 |
-| 1.2 Document Conventions	1 |
-| 1.3 Intended Audience and Reading Suggestions	1 |
-| 1.4 Product Scope	1 |
-| 1.5 References	1 |
-| 2. Overall Description	1 |
-| 2.1 Product Perspective	1 |
-| 2.2 Product Functions	2 |
-| 2.3 User Classes and Characteristics	4 |
-| 2.4 Operating Environment	6 |
-| 2.5 Design and Implementation Constraints	6 |
-| 2.6 User Documentation	6 |
-| 2.7 Assumptions and Dependencies	7 |
-| 3. External Interface Requirements	7 |
-| 3.1 User Interfaces	7 |
-| 3.2 Hardware Interfaces	9 |
-| 3.3 Software Interfaces	9 |
-| 3.4 Communications Interfaces	9 |
-| 4. System Features	9 |
-| 4.1 Assign Volunteer	9 |
-| 4.2 Create New Volunteer	12 |
-| 4.3 Generate Daily Report	15 |
-| 5. Other Nonfunctional Requirements	19 |
-| 5.1 Non Functional Requirements	19 |
-| 5.2 Performance Requirements	19 |
-| 5.3 Safety Requirements	19 |
-| 5.4 Security Requirements	19 |
-| 5.5 Software Quality Attributes	19 |
-| 5.6 Business Rules	21 |
+| 1. Introduction	 |
+| 1.1 Purpose	 |
+| 1.2 Document Conventions	 |
+| 1.3 Intended Audience and Reading Suggestions	 |
+| 1.4 Product Scope	 |
+| 1.5 References	 |
+| 2. Overall Description	 |
+| 2.1 Product Perspective	 |
+| 2.2 Product Functions	 |
+| 2.3 User Classes and Characteristics	 |
+| 2.4 Operating Environment	 |
+| 2.5 Design and Implementation Constraints	 |
+| 2.6 User Documentation	 |
+| 2.7 Assumptions and Dependencies	 |
+| 3. External Interface Requirements	 |
+| 3.1 User Interfaces	 |
+| 3.2 Hardware Interfaces	 |
+| 3.3 Software Interfaces	 |
+| 3.4 Communications Interfaces	 |
+| 4. System Features	 |
+| 4.1 Assign Volunteer	 |
+| 4.2 Create New Volunteer	 |
+| 4.3 Generate Daily Report	 |
+| 5. Other Nonfunctional Requirements	 |
+| 5.1 Non Functional Requirements	 |
+| 5.2 Performance Requirements	 |
+| 5.3 Safety Requirements	 |
+| 5.4 Security Requirements	 |
+| 5.5 Software Quality Attributes	 |
+| 5.6 Business Rules	 |
 | 6. Other Requirements |
 
 **Revision History**
